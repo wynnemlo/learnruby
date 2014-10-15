@@ -71,3 +71,10 @@ result.each do |k, v|
   puts "------"
   p v
 end
+
+# 7
+
+# The first hash's key is a symbol, the second one's hash's key is a string.
+
+# 8
+#B
